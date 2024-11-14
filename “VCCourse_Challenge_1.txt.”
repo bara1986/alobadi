@@ -1,0 +1,19 @@
+Create the File:
+
+Open a text editor (like Notepad or TextEdit).
+Type one line of text.
+Save the file with the name VCCourse_Challenge_1.txt.
+Use GitHub Desktop Application:
+
+Open the GitHub Desktop application on your computer.
+Ensure you have your Tech-Academy-Projects repository set up or cloned in GitHub Desktop.
+Drag and drop VCCourse_Challenge_1.txt into the repository folder on your local system.
+In GitHub Desktop, you should see the new file listed as a change.
+Add a commit message, such as "Add VCCourse_Challenge_1.txt," and click Commit to main (or whatever branch you’re using).
+Click Push origin to upload the changes to your GitHub repository.
+Submit the Link:
+
+Go to your Tech-Academy-Projects repository on GitHub.com.
+Copy the repository link from your browser's address bar (it should look like https://github.com/username/Tech-Academy-Projects).
+Paste the link here or submit it wherever required for your assignment.
+This link will now take viewers to your repository, which should contain the VCCourse_Challenge_1.txt
